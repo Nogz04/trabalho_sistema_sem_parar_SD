@@ -1,1 +1,1 @@
-# trabalho_sistema_sem_parar_SD
+# Trabalho do sistema de sem parar para estacionamento de carros - Sistemas Digitais
