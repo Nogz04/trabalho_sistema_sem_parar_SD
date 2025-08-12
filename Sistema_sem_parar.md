@@ -37,17 +37,16 @@ A cancela só abre se:
 
 ---
 
-## 4. Expressão Canônica (Soma de Mintermos)
+## 4. Expressão Canônica (Soma de Mintermos) e Expressão Simplificada
 
 A saída **S** só é 1 quando **C = 1**, **T = 1** e **P = 1**:
 
 `S = C · T · P`
 
-
 ---
 ## 5. Mapa de Karnaugh
-## 6. Expressão Simplificada
-## 7. Circuito Lógico e Simulação
+
+## 6. Circuito Lógico e Simulação
 
 ### Se uma ou mais entradas forem 0, então, S = 0
 <img width="430" height="259" alt="image" src="https://github.com/user-attachments/assets/65676d2b-8508-454c-b17b-8fc0ac7a5528" />
@@ -56,10 +55,9 @@ A saída **S** só é 1 quando **C = 1**, **T = 1** e **P = 1**:
 ### Se todas as entradas forem 1, então, S = 1 <br>
 <img width="463" height="277" alt="image" src="https://github.com/user-attachments/assets/f82f8e10-7f98-49f7-a90c-5500b6d917d9" />
 
-
 ---
 
-## 8. Lógica do Circuito (Explicação)
+## 7. Lógica do Circuito (Explicação)
 
 A cancela **só será aberta** quando:
 - Um carro estiver presente (**C = 1**)
