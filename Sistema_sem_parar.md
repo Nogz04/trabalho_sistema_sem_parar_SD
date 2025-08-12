@@ -46,6 +46,10 @@ A saída **S** só é 1 quando **C = 1**, **T = 1** e **P = 1**:
 ---
 ## 5. Mapa de Karnaugh
 
+<img width="816" height="550" alt="kmap_estilo_modelo" src="https://github.com/user-attachments/assets/30ce57c4-6661-46ea-80cb-9bfb3ee0a5ca" />
+
+---
+
 ## 6. Circuito Lógico e Simulação
 
 ### Se uma ou mais entradas forem 0, então, S = 0
