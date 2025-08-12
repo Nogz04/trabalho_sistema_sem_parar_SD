@@ -1,10 +1,8 @@
-# Entrada Automática ao Estacionamento com Barreira (Tipo Sem Parar)
+# 🚗 Estacionamento Automático com Barreira
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/08977e67-7f50-4dbc-851b-4032ed77bb25" />
 
-## Como vai ser?
-
-### Cenário
+## 1. Definição do Problema (Cenário Real)
 
 A cancela só abre se:
 1. O **sensor de presença** detectar um carro (**C = 1**)
@@ -13,7 +11,7 @@ A cancela só abre se:
 
 ---
 
-## Variáveis
+## 2. Variáveis de Entrada
 
 | Variável | Significado |
 |----------|-------------|
@@ -24,7 +22,7 @@ A cancela só abre se:
 
 ---
 
-## Tabela Verdade
+## 3. Tabela Verdade
 
 | C (Carro) | T (Tag) | P (Pagamento) | S (Cancela abre) |
 |:---------:|:-------:|:--------------:|:----------------:|
@@ -39,7 +37,7 @@ A cancela só abre se:
 
 ---
 
-## Expressão Canônica (Soma de Mintermos)
+## 4. Expressão Canônica (Soma de Mintermos)
 
 A saída **S** só é 1 quando **C = 1**, **T = 1** e **P = 1**:
 
@@ -47,8 +45,13 @@ A saída **S** só é 1 quando **C = 1**, **T = 1** e **P = 1**:
 
 
 ---
+## 5. Mapa de Karnaugh
+## 6. Expressão Simplificada
+## 7. Circuito Lógico
 
-## Explicação da Lógica
+---
+
+## 8. Lógica do Circuito (Explicação)
 
 A cancela **só será aberta** quando:
 - Um carro estiver presente (**C = 1**)
@@ -56,6 +59,10 @@ A cancela **só será aberta** quando:
 - O pagamento for aprovado (**P = 1**)
 
 ---
+
+## 9. Simulação
+
+
 
 ## Circuito Lógico
 
