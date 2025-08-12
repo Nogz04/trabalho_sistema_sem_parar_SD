@@ -1,6 +1,6 @@
 # 🚗 Estacionamento Automático com Barreira
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/08977e67-7f50-4dbc-851b-4032ed77bb25" />
+<img width="528" height="388" alt="image" src="https://github.com/user-attachments/assets/b1c4a8e7-b929-4d23-a395-10a6796e2662" />
 
 ## 1. Definição do Problema (Cenário Real)
 
@@ -47,7 +47,15 @@ A saída **S** só é 1 quando **C = 1**, **T = 1** e **P = 1**:
 ---
 ## 5. Mapa de Karnaugh
 ## 6. Expressão Simplificada
-## 7. Circuito Lógico
+## 7. Circuito Lógico e Simulação
+
+### Se uma ou mais entradas forem 0, então, S = 0
+<img width="430" height="259" alt="image" src="https://github.com/user-attachments/assets/65676d2b-8508-454c-b17b-8fc0ac7a5528" />
+<img width="430" height="233" alt="image" src="https://github.com/user-attachments/assets/1d98b049-ca7a-43cd-b0e8-77ba45c428e1" /> <br>
+
+### Se todas as entradas forem 1, então, S = 1 <br>
+<img width="463" height="277" alt="image" src="https://github.com/user-attachments/assets/f82f8e10-7f98-49f7-a90c-5500b6d917d9" />
+
 
 ---
 
@@ -59,31 +67,3 @@ A cancela **só será aberta** quando:
 - O pagamento for aprovado (**P = 1**)
 
 ---
-
-## 9. Simulação
-
-
-
-## Circuito Lógico
-
-Componentes:
-- 3 entradas (Switches)
-- 2 portas AND (ou 1 AND de 3 entradas)
-- 1 saída (LED)
-
----
-
-## Exemplo:
-
-`C (Carro)`	<br>
-`T (Tag)`	<br>
-`P (Pagamento)`	<br>
-`S (Cancela abre)` <br>
-
-```text
-C ───┐
-     AND ───┐
-T ───┘     AND ─── S
-            |
-P ──────────┘
-```
