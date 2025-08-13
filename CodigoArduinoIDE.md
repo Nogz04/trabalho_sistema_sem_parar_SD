@@ -42,7 +42,8 @@ void loop() {
   }
 }
 
-// No arduíno IDE só abertar Ctrl + Shift + M para abrir o terminal (ou ir em Tools -> Serial Monitor) e informar os valores no campo assim: (1 1 1) -> Para ligar o led, (1 0 1) ou qualquer valor com 0 para desligar o led.
+// No arduíno IDE só abertar Ctrl + Shift + M para abrir o terminal (ou ir em Tools -> Serial Monitor)
+// e informar os valores no campo assim: (1 1 1) -> Para ligar o led, (1 0 1) ou qualquer valor com 0 para desligar o led.
 
 ```
 
