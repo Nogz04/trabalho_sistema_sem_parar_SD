@@ -1,4 +1,4 @@
-# 🚗 Estacionamento Automático com Barreira 
+# 🚗 Estacionamento Automático com Barreira (Sem parar)
 
 <img width="528" height="388" alt="image" src="https://github.com/user-attachments/assets/b1c4a8e7-b929-4d23-a395-10a6796e2662" />
 
