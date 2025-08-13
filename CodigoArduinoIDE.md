@@ -1,4 +1,4 @@
-# Código usado em C++ para o funcionamento e simulação de abertura de cancela com led. 
+# Código usado em C++ para o funcionamento e simulação de abertura de cancela simulada com led. 
 
 ```cpp
 
